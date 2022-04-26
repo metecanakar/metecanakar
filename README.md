@@ -28,4 +28,3 @@ I do kaizen.
 ### How to reach me?
 - Website: https://metecanakar.github.io/
 - LinkedIn: https://www.linkedin.com/in/metecanakar
-- 
