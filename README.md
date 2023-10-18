@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I am a computer scientist focused on data science, data engineering and big data.
 
-I am working as a machine learning engineer beating data daily to extract meaningful information out of it. I enjoy taking part in every step of wide-ranged data science projects, from business and data understanding to deployment.
+I am working as a data engineer beating data daily to extract meaningful information out of it. I enjoy taking part in every step of wide-ranged data science projects, from business and data understanding to deployment.
 
 Some of the technologies that I am using can be listed as:
-Python, Spark, Airflow, Azure DevOps, Azure Databricks, Hadoop, Hive, Splunk and KNIME.
+Python, Spark, Airflow, Azure DevOps, Azure Databricks, Hadoop, Hive, Splunk, KNIME and more.
 
 I do kaizen.
 
